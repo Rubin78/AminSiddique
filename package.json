@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Rubin78.github.io/AminSiddique/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -13,7 +14,6 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "bootstrap-icons": "^1.0.0-alpha5",
-    "gh-pages": "^3.1.0",
     "material-ui-icons": "^1.0.0-beta.36",
     "mdbreact": "^4.27.0",
     "node-sass": "^4.14.1",
@@ -63,6 +63,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "react-social-icons": "^4.1.0"
   }
 }
