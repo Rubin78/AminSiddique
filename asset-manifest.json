@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/AminSiddique/static/css/main.4e3fffca.chunk.css",
+    "main.js": "/AminSiddique/static/js/main.30a8772c.chunk.js",
+    "main.js.map": "/AminSiddique/static/js/main.30a8772c.chunk.js.map",
+    "runtime-main.js": "/AminSiddique/static/js/runtime-main.865b2d07.js",
+    "runtime-main.js.map": "/AminSiddique/static/js/runtime-main.865b2d07.js.map",
+    "static/css/2.459a22b9.chunk.css": "/AminSiddique/static/css/2.459a22b9.chunk.css",
+    "static/js/2.2f65e47b.chunk.js": "/AminSiddique/static/js/2.2f65e47b.chunk.js",
+    "static/js/2.2f65e47b.chunk.js.map": "/AminSiddique/static/js/2.2f65e47b.chunk.js.map",
+    "index.html": "/AminSiddique/index.html",
+    "precache-manifest.db42f845561247f4df14c36692e2324d.js": "/AminSiddique/precache-manifest.db42f845561247f4df14c36692e2324d.js",
+    "service-worker.js": "/AminSiddique/service-worker.js",
+    "static/css/2.459a22b9.chunk.css.map": "/AminSiddique/static/css/2.459a22b9.chunk.css.map",
+    "static/css/main.4e3fffca.chunk.css.map": "/AminSiddique/static/css/main.4e3fffca.chunk.css.map",
+    "static/js/2.2f65e47b.chunk.js.LICENSE.txt": "/AminSiddique/static/js/2.2f65e47b.chunk.js.LICENSE.txt",
+    "static/media/Modelling1.png": "/AminSiddique/static/media/Modelling1.1635b5d0.png",
+    "static/media/amin4.png": "/AminSiddique/static/media/amin4.6326b1b8.png",
+    "static/media/five.png": "/AminSiddique/static/media/five.6eb5ec38.png",
+    "static/media/four.png": "/AminSiddique/static/media/four.522e1210.png",
+    "static/media/freepic.jpg": "/AminSiddique/static/media/freepic.fc5c08e2.jpg",
+    "static/media/nine.png": "/AminSiddique/static/media/nine.8354c47c.png",
+    "static/media/port3.jpg": "/AminSiddique/static/media/port3.04e39e99.jpg",
+    "static/media/seven.png": "/AminSiddique/static/media/seven.b8f14452.png",
+    "static/media/six.png": "/AminSiddique/static/media/six.71b134b4.png",
+    "static/media/ten.png": "/AminSiddique/static/media/ten.b0d7c5ab.png",
+    "static/media/three.png": "/AminSiddique/static/media/three.b313f9ca.png",
+    "static/media/tosee2.webp": "/AminSiddique/static/media/tosee2.e95d0563.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.865b2d07.js",
+    "static/css/2.459a22b9.chunk.css",
+    "static/js/2.2f65e47b.chunk.js",
+    "static/css/main.4e3fffca.chunk.css",
+    "static/js/main.30a8772c.chunk.js"
+  ]
+}
